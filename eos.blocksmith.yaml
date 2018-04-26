@@ -1,6 +1,6 @@
 # Block Producer Account
-mainnet: true
-#testnet: true
+#mainnet: true
+testnet: true
 eosio_account_name: eos.blocksmith
 # Authority
 eosio_initial_authority:
